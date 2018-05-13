@@ -1,0 +1,2 @@
+1 | ImmutableMultiDict([('phrase', 'mynameismike'), ('chars', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15 | {'a', 'i', 'e'}
+1 | ImmutableMultiDict([('phrase', 'AndmynameisGeorge'), ('chars', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1 Safari/605.1.15 | {'o', 'a', 'e', 'i'}
